@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: marlo
+Build-Jdk: 23.0.1
+Implementation-Title: Spring Boot Blank Project
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cinepolis
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.cinepolis.cinepolis_sendmail.App
+Created-By: Maven Integration for Eclipse
+
